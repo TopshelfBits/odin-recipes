@@ -35,7 +35,6 @@ ol {
 
 /* Lobster */
 
-.inverse_star,
 .star_title {
     background-color: lightskyblue;
     color: brown;
@@ -46,4 +45,16 @@ ol {
     background-color: brown;
     color: lightskyblue;
     
+}
+
+/* Zelda */
+
+.green_link {
+    color: darkgreen;
+    background-color: lightseagreen
+}
+
+.inverse_z {
+    color: lightseagreen;
+    background-color: darkgreen;
 }
