@@ -21,6 +21,19 @@
 }
 
 /* Lobster Bisque */
+/* Centering page */
+div.parent {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
 .inverse_star,
 .star_title {
     background-color: lightskyblue;
