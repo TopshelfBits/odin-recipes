@@ -20,7 +20,6 @@
     text-align: right;
 }
 
-/* Lobster Bisque */
 /* Centering page */
 div.parent {
     text-align: center;
@@ -33,6 +32,8 @@ ol {
     display: inline-block;
     text-align: left;
 }
+
+/* Lobster */
 
 .inverse_star,
 .star_title {
