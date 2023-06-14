@@ -19,3 +19,17 @@
 .sweet {
     text-align: right;
 }
+
+/* Lobster Bisque */
+.inverse_star,
+.star_title {
+    background-color: lightskyblue;
+    color: brown;
+    font-weight: 800;
+    
+}
+.inverse_star {
+    background-color: brown;
+    color: lightskyblue;
+    
+}
