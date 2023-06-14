@@ -1,0 +1,21 @@
+/* Index Styling */
+.green,
+.white {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.green {
+    color: lightgreen;
+}
+
+.meat {
+    text-align: center;
+}
+
+.sweet {
+    text-align: right;
+}
