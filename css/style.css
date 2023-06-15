@@ -70,3 +70,15 @@ ol {
     color: darkslategrey;
     background-color: blanchedalmond;
 }
+
+/* Fable */
+
+.fable_color {
+    color: goldenrod;
+    background-color: lightgoldenrodyellow;
+}
+
+.inverse_f {
+    color: lightgoldenrodyellow;
+    background-color: goldenrod;
+}
