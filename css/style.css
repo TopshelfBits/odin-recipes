@@ -58,3 +58,15 @@ ol {
     color: lightseagreen;
     background-color: darkgreen;
 }
+
+/* Elden Ring */
+
+.er_titles {
+    color: blanchedalmond;
+    background-color: darkslategrey;
+}
+
+.inverse_er {
+    color: darkslategrey;
+    background-color: blanchedalmond;
+}
